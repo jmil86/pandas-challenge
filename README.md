@@ -1,7 +1,7 @@
 # pandas-challenge
 Summary of Analysis
 
-Charter Schools Show Stronger Results: Charter schools consistentyly had higher results in nearly every category over District schools.
+Charter Schools Show Stronger Results: Charter schools consistently had higher results in nearly every category over District schools.
 
 Budget not a major contributor to success: There was not a strong correlation with higher budgets to higher success rates. Some schools with lower budgets outperormed those with higher ones. 
 
